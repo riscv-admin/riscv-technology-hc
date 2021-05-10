@@ -1,0 +1,50 @@
+= Technology Sectors HC: Notes of meeting on 07 May 2021
+Attendees : John, Mark, Marc and Nambi
+
+== SIG
+Some interesting documents to use
+Policy 
+https://docs.google.com/document/d/14ZpciYwIzmuiB92_hKfwTAttTnc3rsLbWI-CpC7MdC8/edit
+
+Mark shared the following information for details on the following
+  - 
+Tech Wiki
+https://wiki.riscv.org/display/TECH
+help@riscv.org
+
+Below is the meeting disclaimer
+https://drive.google.com/drive/folders/1hzoPukaf5I-r12kdjpMY5KetoYfvHeCb?usp=sharing
+
+Status spreadsheet - Technical working groups
+https://docs.google.com/spreadsheets/d/1oaAts99shfS-QLv9KKAp3NFgQfRF8uC39fHZmpXtAqI/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1qzu6b9kgADGjaa5fd1Qla7b9gCMOaEnGO5bUVu2oPys/edit?usp=sharing
+
+Status
+
+https://drive.google.com/drive/folders/1j0XmCHYwXPiZGYbfBl7WoG1AdwA2rDMR?usp=sharing
+
+Others
+https://docs.google.com/document/d/14ZpciYwIzmuiB92_hKfwTAttTnc3rsLbWI-CpC7MdC8/edit?usp=sharing
+
+git hub RISCV location
+https://github.com/riscv
+
+https://github.com/riscv/riscv-technology-hc
+
+== Notes from the meeting
+- Get to know others in the group
+- Going through the various required links, shown above
+- Work with the groups and see how to get TG's going
+  - Example Embedded SIG
+- Spawn new TG's that would be interesting
+  - Like Data center SIG, Communications SIG
+- Strategy document for the HC
+- 
+
+This should lead to work being done in the ISA to accommodate the requirements for the SIG's/TG's
+
+== Action Items
+AI from the meeting
+- Formally announce the HC formation
+- The HC need to vote and approve the preliminary charter for the Embedded Charter
+  - Marc to send out the request for candidates
