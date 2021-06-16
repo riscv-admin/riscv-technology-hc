@@ -1,0 +1,48 @@
+= Technology Sectors HC: Notes of meeting on 16 June 2021
+Attendees : John Leidel, Marc Karasek, Zheng Zhang, Wei Wu
+
+== SIG
+Some interesting documents to use
+Policy 
+https://docs.google.com/document/d/14ZpciYwIzmuiB92_hKfwTAttTnc3rsLbWI-CpC7MdC8/edit
+
+Mark shared the following information for details on the following
+  - 
+Tech Wiki
+https://wiki.riscv.org/display/TECH
+help@riscv.org
+
+Below is the meeting disclaimer
+https://drive.google.com/drive/folders/1hzoPukaf5I-r12kdjpMY5KetoYfvHeCb?usp=sharing
+
+Status spreadsheet - Technical working groups
+https://docs.google.com/spreadsheets/d/1oaAts99shfS-QLv9KKAp3NFgQfRF8uC39fHZmpXtAqI/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1qzu6b9kgADGjaa5fd1Qla7b9gCMOaEnGO5bUVu2oPys/edit?usp=sharing
+
+Status
+
+https://drive.google.com/drive/folders/1j0XmCHYwXPiZGYbfBl7WoG1AdwA2rDMR?usp=sharing
+
+Others
+https://docs.google.com/document/d/14ZpciYwIzmuiB92_hKfwTAttTnc3rsLbWI-CpC7MdC8/edit?usp=sharing
+
+git hub RISCV location
+https://github.com/riscv
+
+https://github.com/riscv/riscv-technology-hc
+
+== Notes from the meeting
+- Get to know the others joining/participating in the group
+- Overview of the goals/responsibilities of the TechHC
+- Overview of the TechHC organization
+- Overview of the SIG process within TechHC
+- Presentation of the Embedded SIG
+- Vote on formation of the Embedded SIG: PASS (4-Yes, 0-No)
+- Provisional nomination of Marc Karasek as chair
+- Discussion on the status of the Android SIG
+
+== Action Items
+AI from the meeting
+- Send out formal call for nominations for the Embedded SIG to tech-announce techc
+- Contact Philip Tomsich regarding the status of the Android SIG
+
